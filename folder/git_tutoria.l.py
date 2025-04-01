@@ -14,3 +14,11 @@ def calc_diff(a, b):
     """
     
     return a - b
+
+def mult(a, b):
+    """sumary_line
+    Multiplies user input numbers
+    function (a, b)
+    """
+    
+    return a * b
