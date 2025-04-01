@@ -1,5 +1,5 @@
 def add_number(a,b, c):
-    return a + b + c
+    return sum([a, b, c])
 
 
 # 1. extend add_numbers to allow an arbitrary number of parameters
