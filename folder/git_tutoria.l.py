@@ -1,4 +1,9 @@
 def add_number(a,b, c):
+    """sumary_line
+    
+    Returns the sum of a,b and c
+    """
+    
     return sum([a, b, c])
 
 
