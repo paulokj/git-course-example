@@ -8,4 +8,9 @@ def add_number(a,b, c):
 # 4. add documentation for add_number()
 
 def calc_diff(a, b):
+    """sumary_line
+    Add Security Components here - use Third Party to improve
+    function (a, b)
+    """
+    
     return a - b
