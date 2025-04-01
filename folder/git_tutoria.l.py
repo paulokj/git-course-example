@@ -1,4 +1,5 @@
 def add_number(a,b, c):
+    Returns the sum of a,b and c
     return a + b + c
 
 
